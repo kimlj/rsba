@@ -1,0 +1,11 @@
+color black: #3b322a
+color yellow: #eb8d05
+color gold: #ecc50c
+color blue: #06c8b8
+color gray gradient: #ecf4f5
+color orange: #ff683e
+color orange dark: #fab560
+orange light: #fcdda4
+color dark green: #0a3842
+bg_bot: #ecf5f6
+bot_left: #f9fafb
